@@ -1,6 +1,13 @@
 <h1>Welcome to Brown Bread and Jam</h1>
 <h3>I am Naved, a Calgary-based freelancer, providing web development and data architecture solutions.</h3>
 
+
+Turning raw data into clear insight with R, Python, Power BI
+Orchestrating data at scale with PySpark & Apache
+Delivering web solutions that balance clarity and performance
+Designing XXXX
+
+
 - My Toolbox: **R, Python, HTML, CSS, JavaScript, TypeScript, SQL, T-SQL, NoSQL, Databricks, Power-BI**
 - Currently Learning: **Apache and PySpark**
 - Email for inquiries: **naved.tdk8@gmail.com** or Connect with LinkedIn: **[Naved Chowdhury](https://linkedin.com/in/naved8chowdhury)**
