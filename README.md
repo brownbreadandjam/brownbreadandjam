@@ -15,7 +15,6 @@ Transforming raw numbers into interactive narratives, I thrive on exploratory da
 ## My Assorted Projects
 *Data stories coming soon.*
 
-***
-
 Scroll through the bakery to see my recipe and assorted collection in [Brown Bread and Jam](https://brown-bread-and-jam.webflow.io/)
 
+***
