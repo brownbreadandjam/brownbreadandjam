@@ -1,16 +1,19 @@
-## Hi there 👋
+# Greetings!
 
-<!--
-**brownbreadandjam/brownbreadandjam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Naved, freelancing under the alias of **Brown Bread and Jam**, where I blend data and design for freshly-baked solutions. 
+Transforming raw numbers into interactive narratives, I thrive on exploratory data analytics and CI/CD automation.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Toolbox
+- **R & Python:** Data wrangling, scraping, visualization, and machine learning
+- **SQL:** Querying, data modeling, and analysis
+- **Azure Data Factory:** ETL pipelines and cloud data integration
+- **Databricks:** Big data processing and collaborative analytics
+- **Power BI:** Interactive dashboards and business intelligence
+- **VS Code:** Web development, UX/UI design, and IDE collaboration
+
+## My Assorted Projects
+*Data stories coming soon.*
+***
+
+Scroll through the bakery to see my recipe and assorted collection in [Brown Bread and Jam](https://brown-bread-and-jam.webflow.io/)
