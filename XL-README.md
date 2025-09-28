@@ -30,12 +30,14 @@
 
 <h6>Design & Visualization for web development, dashboards, and workflows</h6>
 <h6>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="24" alt="VSCode"/>
   <img src="https://github.com/brownbreadandjam/Assets_Images/blob/main/icons8-power-bi-2021.svg" width="24" alt="Power BI"/>
-  <img src="https://github.com/brownbreadandjam/Assets_Images/blob/main/adobe-illustrator.svg" width="30" alt="Illustrator"/>
-  <img src="https://github.com/brownbreadandjam/Assets_Images/blob/main/icons8-visio.svg" width="30" alt="Visio"/>
-  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="60" alt="Seaborn"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="24" alt="Figma"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-original.svg" width="24" alt="Adobe XD"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" width="24"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="24" alt="VSCode"/>
+  <img src="https://github.com/brownbreadandjam/Assets_Images/blob/main/icons8-visio.svg" width="28" alt="Visio"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg" width="24" alt="RStudio"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" width="24" alt="Canva"/>
   </h6>
 
 
