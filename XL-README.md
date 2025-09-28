@@ -1,6 +1,6 @@
 <h1><em>Welcome to Brown Bread and Jam</em></h1>
-<h5>Brown Bread and Jam is an independent freelance domain for ETL pipelines, system architecture, web development, and other corporate needs.</h5>
-<h6>I am Naved, the principal (only) baker at my corporate bakery. And I provide freshly-baked solutions to clients with data & design tools.</h6>
+<h5>Brown Bread and Jam is a freelance domain for ETL pipelines, system architecture, web development, and other corporate needs.</h5>
+<h6>I am Naved, the <em>(only)</em> baker of this corporate bakery. And I provide freshly-baked solutions to clients with data & design tools.</h6>
 
 ---
 
